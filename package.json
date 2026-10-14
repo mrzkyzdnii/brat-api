@@ -1,0 +1,15 @@
+{
+  "name": "brat-canvas-vercel-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "brat-canvas": "^1.0.30"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}

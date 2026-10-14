@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/brat-text=:text*",
+      "destination": "/api/brat-text?text=:text*"
+    },
+    {
+      "source": "/bratvid-text=:text*",
+      "destination": "/api/bratvid-text?text=:text*"
+    }
+  ]
+}
